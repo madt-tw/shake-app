@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shake-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shake-app/static/js/main.62dbe630.chunk.js",
+    "main.js.map": "/shake-app/static/js/main.62dbe630.chunk.js.map",
+    "runtime-main.js": "/shake-app/static/js/runtime-main.8004d93a.js",
+    "runtime-main.js.map": "/shake-app/static/js/runtime-main.8004d93a.js.map",
+    "static/js/2.7bc92a9b.chunk.js": "/shake-app/static/js/2.7bc92a9b.chunk.js",
+    "static/js/2.7bc92a9b.chunk.js.map": "/shake-app/static/js/2.7bc92a9b.chunk.js.map",
+    "index.html": "/shake-app/index.html",
+    "precache-manifest.f1ae788e94df60b971147a7a50633dd9.js": "/shake-app/precache-manifest.f1ae788e94df60b971147a7a50633dd9.js",
+    "service-worker.js": "/shake-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shake-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7bc92a9b.chunk.js.LICENSE.txt": "/shake-app/static/js/2.7bc92a9b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shake-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8004d93a.js",
+    "static/js/2.7bc92a9b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.62dbe630.chunk.js"
+  ]
+}
