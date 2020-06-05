@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shake-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/shake-app/static/js/main.f90b4fb5.chunk.js",
-    "main.js.map": "/shake-app/static/js/main.f90b4fb5.chunk.js.map",
+    "main.js": "/shake-app/static/js/main.a99a5f20.chunk.js",
+    "main.js.map": "/shake-app/static/js/main.a99a5f20.chunk.js.map",
     "runtime-main.js": "/shake-app/static/js/runtime-main.8004d93a.js",
     "runtime-main.js.map": "/shake-app/static/js/runtime-main.8004d93a.js.map",
     "static/js/2.59dad6d4.chunk.js": "/shake-app/static/js/2.59dad6d4.chunk.js",
     "static/js/2.59dad6d4.chunk.js.map": "/shake-app/static/js/2.59dad6d4.chunk.js.map",
     "index.html": "/shake-app/index.html",
-    "precache-manifest.3fcf974712bd52456390da435fdb2154.js": "/shake-app/precache-manifest.3fcf974712bd52456390da435fdb2154.js",
+    "precache-manifest.e069f7e3f7528f509609a64ebd24ab60.js": "/shake-app/precache-manifest.e069f7e3f7528f509609a64ebd24ab60.js",
     "service-worker.js": "/shake-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/shake-app/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.59dad6d4.chunk.js.LICENSE.txt": "/shake-app/static/js/2.59dad6d4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8004d93a.js",
     "static/js/2.59dad6d4.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f90b4fb5.chunk.js"
+    "static/js/main.a99a5f20.chunk.js"
   ]
 }
